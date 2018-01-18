@@ -1,1 +1,1 @@
-# sendamil
+# sendmail
